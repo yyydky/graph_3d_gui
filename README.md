@@ -6,7 +6,7 @@ A multivariate function plotting graphic user interface using Matlab App Designe
 ## Usage:
 1. Download the entire folder and open in Matlab.
 2. Run graph_3d.mlapp.
-3. Enter the following numeric inputs for the x input matrix, the starting point, the step, and the ending point. The y input matrix is the transpose of the x matrix.
+3. Enter the following numeric inputs for the x value, the starting point, the step, and the ending point. The y input is the transpose of x .
 4. Enter the formula containing x and y variables.
 4. Users can click the contour checkbox to see the contour plot.
 5. Press the plot button.
