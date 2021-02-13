@@ -12,7 +12,7 @@ A multivariate function plotting graphic user interface using Matlab App Designe
 5. Press the plot button.
 
 ## Error Handling:
-Inappropriate matrix input: 
+Inappropriate x input: 
 - Step input cannot be zero. 
 - Only numeric data is allowed (int/double)
 - The step input is signed. Please make sure the sign of the step agrees with the direction from the starting point to ending point given.
